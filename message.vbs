@@ -1,0 +1,1 @@
+x = msgbox("Do you really want to cancel the installation of your free version of Windows XP?", 1 + 32, "Bill Gates says...")
